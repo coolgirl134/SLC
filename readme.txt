@@ -1,5 +1,5 @@
 Statement:
-SSDsim is a simulation tool of SSD¡¯s internal hardware and software behavior. It provides specified SSD¡¯s performance, endurance and energy consumption information based on a configurable parameter file and different workloads (trace file).
+SSDsim is a simulation tool of SSDÂ¡Â¯s internal hardware and software behavior. It provides specified SSDÂ¡Â¯s performance, endurance and energy consumption information based on a configurable parameter file and different workloads (trace file).
 SSDsim was created by Yang Hu in the end of 2009 and upgraded to version 2.0 after lots of modification and perfection. Its programming language is C and development environment is Microsoft Visual Studio 2008. With the help of Zhiming Zhu, Shuangwu Zhang, Chao Ren, Hao Luo, it is further developed into version 2.x. As the development team, we will continue adding new modules and functions to guarantee its persistent perfection. If you have any questions, suggestions or requirements about it, please feel free to email Yang Hu (yanghu@foxmail.com). We will adopt any reasonable requirements to make SSDsim better.
 
 Application steps:
@@ -16,4 +16,8 @@ Note:
 3)	No CRLF at the end of the last request line.
 
 
-2011-12-03
+lsq updateï¼š
+success in SLC with two workloads
+problem: can't find other workloads
+
+2024-5-28
